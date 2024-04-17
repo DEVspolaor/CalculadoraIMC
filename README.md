@@ -1,4 +1,4 @@
-# flutter_application_1
+# Calculadora IMC
 
 A new Flutter project.
 
@@ -15,4 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-feito por Giovanni Leme Spolaor 
+feito por Giovanni Leme Spolaor e Adriano Medeiros Cunha
+
+fizemos uma calculadora de IMC ![imc](https://github.com/DEVspolaor/CalculadoraIMC/assets/133894740/5ddf0fe9-8d7e-4d0c-a8f9-e5a654e095ab)
